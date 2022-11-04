@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap');
+
+body{
+    background: linear-gradient(90deg,#893957 0%,#9424F0 100%);
+}
+h1{
+    font-size: 70px;
+    text-align: center;
+    margin-top: 15%;
+    color: #ffffff;
+    font-family:"Montserrat";
+    font: weight 700px;
+}
+
+span{
+    color: #1f1f1f;
+    font-size: 107px;
+    font-weight: 900;
+}
+p{
+    text-align: center;
+    margin-top: -4%;
+    font-size: 24px;
+    font-family: cursive;
+    letter-spacing: 2px;
+}
+
+button{
+    margin: auto;
+    display: block;
+}
+.btn{
+    background-color: transparent;
+    border: 2px solid #1f1f1f;
+    border-radius: 0.6em;
+    color: #1f1f1f;
+    font-size: 2rem;
+    padding: 0.5em 1.4em;
+    cursor: grab;
+    text-align: center;
+    text-transform: capitalize;
+    font-family:"Montserrat";
+    font-weight: 900;
+}
+.btn:hover{
+    color: #ffffff;
+    outline: 0;
+}
+.lco{
+    transition: box-shadow 300ms ease-in-out, color 300ms ease-in-out;
+}
+.lco:hover{
+    box-shadow: 0 0 40px 40px #1f1f1f inset  ;
+}

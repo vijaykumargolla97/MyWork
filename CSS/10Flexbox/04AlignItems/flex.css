@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    border: 3px solid black;
+    height: 500px;
+    justify-content: center;
+    /* align-items: flex-start; */
+    /* align-items: flex-end; */
+    align-items: center;
+    /* align-items: stretch; */
+    /* align-items: baseline; */
+    /* align-items: inherit; */
+    /* align-items: initial; */
+    /* align-items: unset; */
+}
