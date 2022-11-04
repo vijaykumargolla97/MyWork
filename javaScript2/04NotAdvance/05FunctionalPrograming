@@ -1,0 +1,54 @@
+//// note plzz dont  run this code this is only for learn about funtion
+// im not  write any code here
+// im explaying styes of function
+
+//let score = 74; 
+ 
+// function addbonus(){
+// score = score + 7;
+// return score;
+// }
+// 
+// functinaol progaming way
+
+//functionaddbonus(score){
+// return score + 7;
+// } 
+
+
+
+//state change ++++++++++++++++
+//
+// vijay = "hi"
+// vijay = "hey"
+// vijay = "hello"
+
+
+// functinaol progaming way
+
+//
+// vijay = "hi"
+// vijayWed = "hey"
+// vijaySun = "hello"
+
+// make sure in functional programig way variable is not be same
+
+
+// functions are treated as first class
+
+// const h = 77;
+// const name = "vijay";
+
+// const addScore = function(){....}
+
+
+
+
+// not only this method 
+
+// sayHello(function (){....}){
+//    return function (){....},
+// }
+
+
+//// note plzz dont  run this code this is only for learn about funtion
